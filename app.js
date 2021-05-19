@@ -41,4 +41,6 @@ function calculateOutput(basket) {
   console.log('Total:', salesTotalRounded)
 }
 
+calculateOutput(basketOne)
+calculateOutput(basketTwo)
 calculateOutput(basketThree)
